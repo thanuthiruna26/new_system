@@ -1,28 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\UT02012\\Desktop\\New library last\\backend\\libray\\libray.csproj": {}
+    "C:\\Users\\KAJONI\\Desktop\\New_library_last\\backend\\libray\\libray.csproj": {}
   },
   "projects": {
-    "C:\\Users\\UT02012\\Desktop\\New library last\\backend\\libray\\libray.csproj": {
+    "C:\\Users\\KAJONI\\Desktop\\New_library_last\\backend\\libray\\libray.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\UT02012\\Desktop\\New library last\\backend\\libray\\libray.csproj",
+        "projectUniqueName": "C:\\Users\\KAJONI\\Desktop\\New_library_last\\backend\\libray\\libray.csproj",
         "projectName": "libray",
-        "projectPath": "C:\\Users\\UT02012\\Desktop\\New library last\\backend\\libray\\libray.csproj",
-        "packagesPath": "C:\\Users\\UT02012\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\UT02012\\Desktop\\New library last\\backend\\libray\\obj\\",
+        "projectPath": "C:\\Users\\KAJONI\\Desktop\\New_library_last\\backend\\libray\\libray.csproj",
+        "packagesPath": "C:\\Users\\KAJONI\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\KAJONI\\Desktop\\New_library_last\\backend\\libray\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\UT02012\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\KAJONI\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -74,7 +71,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.402/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
